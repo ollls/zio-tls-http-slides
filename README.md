@@ -5,7 +5,9 @@
 ![alt text](https://github.com/ollls/zio-tls-http-slides/blob/main/WebSocket.jpg)
 
 ## File access with ZStreams. 
-Top level catalog, many files i one catalog, specific file by name. Example how to enable chunked encoding.
+Example 1: File web server from /pub.
+Example 2: File ops, style 1.
+Example 3: Specific file by name.
 
 ![alt text](https://github.com/ollls/zio-tls-http-slides/blob/main/FileStreaming.png)
 
