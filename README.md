@@ -6,7 +6,7 @@
 
 ## File access with ZStreams. 
 Example 1: File web server from /pub.
-Example 2: File ops, style 1.
+Example 2: File ops with remaning path.
 Example 3: Specific file by name.
 
 ![alt text](https://github.com/ollls/zio-tls-http-slides/blob/main/FileStreaming.png)
